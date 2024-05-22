@@ -1,0 +1,9 @@
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.csproj.AssemblyReference.cache
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.AssemblyInfo.cs
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\nagac\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cs
